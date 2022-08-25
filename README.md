@@ -5,7 +5,6 @@ Currently pursuing my associate's degree in Informatics Engineering at [Electron
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Revaldo11.Revaldo11)
 
 ![Revaldo Putra's github stats](https://github-readme-stats.vercel.app/api?username=Revaldo11&show_icons=true&theme=dark)
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api username=Revaldo11&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <a href="https://www.linkedin.com/in/revaldoputra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/hallo.valdo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
