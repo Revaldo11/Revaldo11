@@ -4,7 +4,7 @@ Currently pursuing my associate's degree in Informatics Engineering at [Electron
 ## Here are some fun statistics about my profile!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revaldo11&show_icons=true&theme=dark&locale=en&layout=compact" alt="revaldo11" /></p>
-
+<br>
 <p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=revaldo11&show_icons=true&theme=onedark&title_color=a538ff&text_color=ffffff&locale=en" alt="revaldo11" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
