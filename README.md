@@ -3,7 +3,7 @@ Currently pursuing my associate's degree in Informatics Engineering at [Electron
 
 ## Here are some fun statistics about my profile!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=revaldo11&show_icons=true&theme=onedark&title_color=a538ff&text_color=ffffff&locale=en" alt="revaldo11" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Revaldo11&show_icons=true&theme=onedark&title_color=a538ff&text_color=ffffff&locale=en" alt="revaldo11" /></p>
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revaldo11&theme=blue-green)
 
